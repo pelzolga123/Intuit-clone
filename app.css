@@ -103,6 +103,14 @@ input{
     border: 1px solid #C1C5C8;
     border-radius: 3px;
 }
+button{
+    cursor: pointer;
+}
+button:hover {
+    background-color:#1984c8;
+  }
+  
+
 .phone{
     font-size: 10px;
     margin: 5px 0px 0px 0px;
