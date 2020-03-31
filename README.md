@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/y5PWyLq/Screenshot-from-2020-03-16-17-28-55.png" alt="Screenshot-from-2020-03-16-17-28-55" border="0">
 
 ## About The Project
-This is clone of Intuit page. Webpage contains form, images and thumbnails.
+This is a clone of the Intuit page. The webpage contains a form, images, and thumbnails.
 
 ## Live version
 [Intuit clone](https://rawcdn.githack.com/pelzolga123/Intuit-clone/56a2be142e4f778300d2f154ba8c8b26e700ab73/index.html)
@@ -11,6 +11,14 @@ This is clone of Intuit page. Webpage contains form, images and thumbnails.
 ### Built With
 * HTML5
 * CSS
+
+### Development
+
+* Clone project
+```
+git clone https://github.com/pelzolga123/Intuit-clone.git
+```
+* Open `index.html` file with a browser.
 
 ## Author
 
